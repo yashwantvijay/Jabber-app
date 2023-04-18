@@ -1,0 +1,6 @@
+{
+  "appId": "com.jabber.app",
+  "appName": "jabber",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
